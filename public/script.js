@@ -13,7 +13,7 @@ let chatHistory = [{
 - Adapt responses based on context and timing
 - Keep each response within 200 characters
 - Respond in ChatGPT-style with bullet points that are clear, concise, and flow logically from one to the next for easy - - - reading, with a blank line above and below each bullet.
-- Aim to make every response warm, inviting, and respectful, showing that you value a real connection.`
+- Aim to make every response warm,  inviting, and respectful, showing that you value a real connection.`
 }];
 
 function addMessage(content, isUser) {
